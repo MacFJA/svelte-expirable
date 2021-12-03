@@ -2,7 +2,7 @@
   "name": "@macfja/svelte-expirable",
   "module": "dist/index.mjs",
   "main": "dist/index.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Svelte store with items that expire",
   "scripts": {
     "lint": "eslint src/",
@@ -35,12 +35,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/macfja/svelte-persistent-store.git"
+    "url": "git+https://github.com/macfja/svelte-expirable.git"
   },
   "bugs": {
-    "url": "https://github.com/macfja/svelte-persistent-store/issues"
+    "url": "https://github.com/macfja/svelte-expirable/issues"
   },
-  "homepage": "https://github.com/macfja/svelte-persistent-store#readme",
+  "homepage": "https://github.com/macfja/svelte-expirable#readme",
   "author": "MacFJA",
   "license": "MIT",
   "types": "types/index.d.ts",
